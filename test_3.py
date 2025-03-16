@@ -27,7 +27,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Display logo at the top
-st.image("https://wallpapers.com/images/featured/cool-cat-1bdkaxbrpo86pxd3.jpg", width=150)
+st.image("https://wallpapers.com/images/high/african-barbary-lion-n4a0r9y9ilabs4vc.webp", width=180)
 
 st.title("OpenCV Multi-Feature Detection App")
 
